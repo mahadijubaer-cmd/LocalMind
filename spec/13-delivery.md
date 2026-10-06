@@ -3,6 +3,9 @@
 This file defines implementation order. Calendar estimates never override exit
 criteria.
 
+The detailed execution sequence and sprint gates are canonical in
+`19-sprint-plan.md`; all work follows `18-development-process.md`.
+
 ## Milestones
 
 | Milestone | Deliverable | Mandatory exit |

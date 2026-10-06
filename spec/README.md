@@ -1,7 +1,9 @@
 # LocalMind canonical specification
 
-Status: **Normative**  
-Specification version: **0.1.0-draft**  
+Status: **Normative**
+
+Specification version: **0.1.1-draft**
+
 Product target: **LocalMind v0.1**
 
 This directory is the single source of truth for LocalMind product behavior,
@@ -44,6 +46,8 @@ as normative terms. “Owner” means the one human administrator in v0.1.
 | `15-decisions-and-changes.md` | Binding decisions, assumptions, open changes |
 | `16-glossary.md` | Exact project vocabulary |
 | `17-references.md` | Informative primary references and verification policy |
+| `18-development-process.md` | Mandatory specification-first delivery workflow and gates |
+| `19-sprint-plan.md` | Sequential ten-sprint implementation plan |
 
 ## Fixed v0.1 baseline
 

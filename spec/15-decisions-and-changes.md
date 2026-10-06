@@ -52,6 +52,7 @@ and cannot be advertised as supported.
 | Spec version | Date | Change | Migration/API effect |
 | --- | --- | --- | --- |
 | 0.1.0-draft | 2026-10-06 | Converted product blueprint into complete canonical v0.1 specification set | No implementation exists; initial contract |
+| 0.1.1-draft | 2026-10-06 | Added mandatory specification-first workflow and ten-sprint sequential delivery plan | Process-only change; no product/API migration |
 
 ## Change procedure
 

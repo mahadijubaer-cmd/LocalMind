@@ -51,6 +51,8 @@ metadata. The implementation test plan expands each row before its milestone.
 | TRACE-001–004 | Traceability process | Release requirement-coverage report |
 | DEC-009, CHG-001–003 | Specification governance | Decision deadline and change-review audit |
 | REF-001–006 | External reference policy | Release reference/license verification record |
+| DEV-001–025 | Specification-first process | Task/PR audit, spec-first commit order, gate evidence |
+| SPR-001–006 | Sprint governance | Sprint briefs, dependency audit, entry/exit gate review |
 
 TRACE-001: No code change is accepted merely because a family row exists.
 Exact implemented requirement IDs MUST be linked to exact verification.
